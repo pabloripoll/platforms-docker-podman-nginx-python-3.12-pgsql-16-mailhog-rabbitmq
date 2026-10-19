@@ -1,1 +1,0 @@
-* * * * * cd /var/www && {here-goes-worker-command} >> /dev/stdout 2>&1
